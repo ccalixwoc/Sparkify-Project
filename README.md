@@ -19,7 +19,7 @@ The goals for this project are the following:
 The Sparkify Jupyter notebook file shows the all the data preprocessing and the model tuning. Only a small fraction of the 12GB dataset was used to run this model.
 
 ## Result
-Link to Medium blog coming soon...
+The details of the project can be found in my Medium(https://medium.com/@ccalix.woc/predicting-user-churn-with-pyspark-f6ed15762e6c) article.
 
 ## Licensing, Authors and Acknowledgment
 The data and guidelines in the notebook belong to Udacity.
