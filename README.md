@@ -11,7 +11,7 @@
 To run this project, I used Python 3 and installed the following libraries: numpy, pandas, pyspark, spark, seaborn and matplotlilb.
 
 ## Motivation
-The goals for this project are the following:
+The goals for this project are the following:.
 - Develop skills and familiarity with the Spark and MLlib APIs
 - Integrate all the skills developed throughout the Nanodegree program, specially data engineering, model tuning and more refined development
 
@@ -19,7 +19,7 @@ The goals for this project are the following:
 The Sparkify Jupyter notebook file shows the all the data preprocessing and the model tuning. Only a small fraction of the 12GB dataset was used to run this model.
 
 ## Result
-The details of the project can be found in my Medium [article](https://medium.com/@ccalix.woc/predicting-user-churn-with-pyspark-f6ed15762e6c).
+The details of the project can be found in my Medium [article](https://medium.com/@ccalix.woc/predicting-user-churn-with-pyspark-f6ed15762e6c). Additionally, the project can be found in this [link](https://github.com/ccalixwoc/Sparkify-Project/blob/master/Sparkify.ipynb).
 
 ## Licensing, Authors and Acknowledgment
 The data and guidelines in the notebook belong to Udacity.
